@@ -1,17 +1,17 @@
 # sada Theme
 
-The sada Theme is a one page responsive portfolio created using Tailwind CSS.
+The sada Theme is a one page responsive portfolio created using Tailwind CSS. This is a minimalist update.
 
 ## Live demo
 
-[Click here](https://sadademo.netlify.com/) for live demo.
+No demo yet
 
 ## Installation
 
 Inside the folder of your Hugo site run:
 
     $ cd themes
-    $ git clone https://github.com/darshanbaral/sada.git
+    $ git clone https://github.com/ianmaltbey/sada-minimal.git
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
