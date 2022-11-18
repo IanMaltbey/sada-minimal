@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     author = "Darshan Baral"
     description = "Simple portfolio theme"
     copyright = "Custom copyright message"
-    theme = "light" # `dark` or `light`
+    theme = "dark"
     useResources = false
 
     # Profile section
