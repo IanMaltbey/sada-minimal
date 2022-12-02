@@ -1,7 +1,12 @@
 <footer class="text-center text-sm pt-2 border-t border-gray-500 mt-6">
-  <p>{{ .Site.Params.copyright | markdownify }}</p>
-  <p>
-    <a href="https://github.com/darshanbaral/sada">sada</a> by
-    <a href="https://www.darshanbaral.com">darshan</a>
-  </p>
+  <p id="random-quote">Placeholder test text</p>
+ 	 <script>
+		var quotes = [
+                	'Test quote one.',
+		        'Test quote two.',
+			'Test quote three.'
+		];
+		var randomNumber = Math.floor(Math.random() * quotes.length);
+	 	document.getElementById('random-quote').innerHTML = quotes[randomNumber];
+	 </script>
 </footer>
